@@ -1,7 +1,8 @@
 import axios from "axios";
 
-const BASE_URL = "https://deliveryvhgp-webapi.azurewebsites.net/api/v1/";
-const BASE_URL_CORAL_PARK_VERSION = "https://api.vhgp.net/api/v1/";
+// const BASE_URL = "https://deliveryvhgp-webapi.azurewebsites.net/api/v1/";
+// coral park link
+const BASE_URL = "https://api.vhgp.net/api/v1/";
 const PRODUCT = "products";
 const MENU = "menus";
 const ORDER = "orders";
